@@ -10,7 +10,15 @@ MSc laboratory experiences at UNIPD
  - Finally, we are going to see how the estimate of the mean and the CI change as we get more and more data.
 
 
-## Lab 1 - ????
-**Notebook link:** ???  
+## Homework 1 - Regression and Classification
+**Notebook 1 link:** [LR_StefanoIvancich_1227846](https://github.com/ivaste/MachineLearningLAB/blob/master/Homework1/LR_StefanoIvancich_1227846.ipynb)  
+**Content:** Linear Regression on a Combined Cycle Power Plant (CCPP) data
+
+**Notebook 2 link:** ???  
+**Content:** Classification on Wine Dataset
+
+
+## Homework 2 - ???
+**Notebook link:** ???
 **Content:**
  - ???
