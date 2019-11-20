@@ -14,7 +14,7 @@ MSc laboratory experiences at UNIPD
 **Notebook 1 link:** [LR_StefanoIvancich_1227846](https://github.com/ivaste/MachineLearningLAB/blob/master/Homework1/LR_StefanoIvancich_1227846.ipynb)  
 **Content:** Linear Regression on a Combined Cycle Power Plant (CCPP) data
 
-**Notebook 2 link:** [LC_StefanoIvancich_1227846](https://github.com/ivaste/MachineLearningLAB/blob/master/Homework1/LC_StefanoIvancich_1227846.ipynb)
+**Notebook 2 link:** [LC_StefanoIvancich_1227846](https://github.com/ivaste/MachineLearningLAB/blob/master/Homework1/LC_StefanoIvancich_1227846.ipynb)  
 **Content:** Classification on Wine Dataset
 
 
