@@ -18,7 +18,15 @@ MSc laboratory experiences at UNIPD
 **Content:** Classification on Wine Dataset
 
 
-## Homework 2 - ???
+## Homework 2 - Linear Regression and SVM for Classification
+**Notebook 1 link:** [RR_StefanoIvancich_1227846](https://github.com/ivaste/MachineLearningLAB/blob/master/Homework2/RR_StefanoIvancich_1227846.ipynb)  
+**Content:** Linear Regression on house data
+
+**Notebook 2 link:** [SVM_StefanoIvancich_1227846](https://github.com/ivaste/MachineLearningLAB/blob/master/Homework2/SVM_StefanoIvancich_1227846.ipynb)  
+**Content:** SVM vs Logistic Regression on MNIST
+
+
+## Homework 3 - ???
 **Notebook link:** ???
 **Content:**
- - ???
+	- ...
