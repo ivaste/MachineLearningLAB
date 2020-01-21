@@ -26,7 +26,8 @@ MSc laboratory experiences at UNIPD
 **Content:** SVM vs Logistic Regression on MNIST
 
 
-## Homework 3 - ???
-**Notebook link:** ???
+## Homework 3 - Neural Networks and Clustering
+**Notebook link:** [NN_StefanoIvancich_1227846](https://github.com/ivaste/MachineLearningLAB/blob/master/Homework3/NN_StefanoIvancich_1227846.ipynb)  
 **Content:**
-	- ...
+	- Neural Networks for Classification
+	- Clustering with K-means
