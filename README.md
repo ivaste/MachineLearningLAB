@@ -29,5 +29,5 @@ MSc laboratory experiences at UNIPD
 ## Homework 3 - Neural Networks and Clustering
 **Notebook link:** [NN_StefanoIvancich_1227846](https://github.com/ivaste/MachineLearningLAB/blob/master/Homework3/NN_StefanoIvancich_1227846.ipynb)  
 **Content:**
-	- Neural Networks for Classification
-	- Clustering with K-means
+ - Neural Networks for Classification
+ - Clustering with K-means
