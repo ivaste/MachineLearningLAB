@@ -2,7 +2,7 @@
 MSc laboratory experiences at UNIPD
 
 ## Lab 0 - Learning the Mean of a Normal Distribution
-**Notebook link:** [Lab0_StefanoIvancich_1227846](https://github.com/ivaste/MachineLearningLAB/blob/master/Lab0Material/Lab0_StefanoIvancich_1227846.ipynb)  
+**Notebook link:** [Lab0_StefanoIvancich_1227846](https://github.com/ivaste/MachineLearningLAB/blob/master/2019/Lab0Material/Lab0_StefanoIvancich_1227846.ipynb)  
 **Content:**
  - Generate data from a Gaussian distribution.
  - Estimate a confidence interval (CI) for the data we have.
@@ -11,19 +11,18 @@ MSc laboratory experiences at UNIPD
 
 
 ## Homework 1 - Regression and Classification
-**Notebook 1 link:** [LR_StefanoIvancich_1227846](https://github.com/ivaste/MachineLearningLAB/blob/master/Homework1/LR_StefanoIvancich_1227846.ipynb)  
-**Content:** Linear Regression on a Combined Cycle Power Plant (CCPP) data
-
-**Notebook 2 link:** [LC_StefanoIvancich_1227846](https://github.com/ivaste/MachineLearningLAB/blob/master/Homework1/LC_StefanoIvancich_1227846.ipynb)  
+**Notebook 1 link:** [LC_StefanoIvancich_1227846](https://github.com/ivaste/MachineLearningLAB/blob/master/Homework1/LC_StefanoIvancich_1227846.ipynb)  
 **Content:** Classification on Wine Dataset
+<!--**Notebook 1 link:** [LR_StefanoIvancich_1227846](https://github.com/ivaste/MachineLearningLAB/blob/master/Homework1/LR_StefanoIvancich_1227846.ipynb)  
+**Content:** Linear Regression on a Combined Cycle Power Plant (CCPP) data
+-->
 
 
 ## Homework 2 - Linear Regression and SVM for Classification
-**Notebook 1 link:** [RR_StefanoIvancich_1227846](https://github.com/ivaste/MachineLearningLAB/blob/master/Homework2/RR_StefanoIvancich_1227846.ipynb)  
-**Content:** Linear Regression on house data
-
 **Notebook 2 link:** [SVM_StefanoIvancich_1227846](https://github.com/ivaste/MachineLearningLAB/blob/master/Homework2/SVM_StefanoIvancich_1227846.ipynb)  
 **Content:** SVM vs Logistic Regression on MNIST
+<!--**Notebook 1 link:** [RR_StefanoIvancich_1227846](https://github.com/ivaste/MachineLearningLAB/blob/master/Homework2/RR_StefanoIvancich_1227846.ipynb)  
+**Content:** Linear Regression on house data-->
 
 
 ## Homework 3 - Neural Networks and Clustering
